@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lin1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp" >
+
+    <!-- <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="10dp"
+        android:text="@string/intro" />
+
+    <ImageView
+        android:id="@+id/choice_1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        
+        android:layout_below="@+id/textView1"
+        android:background="@drawable/box_o" />
+
+    <ImageView
+        android:id="@+id/choice_2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignRight="@+id/choice_1"
+        android:layout_below="@+id/choice_1"
+        android:background="@drawable/box_o" />
+
+    <ImageView
+        android:id="@+id/choice_3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignRight="@+id/choice_2"
+        android:layout_below="@+id/choice_2"
+        android:background="@drawable/box_o" />
+
+    <ImageView
+        android:id="@+id/option_1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/textView1"
+        android:layout_marginLeft="90dp"
+        android:layout_toRightOf="@+id/choice_1"
+        android:background="@drawable/chair" />
+
+    <ImageView
+        android:id="@+id/option_2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/choice_3"
+        android:layout_alignRight="@+id/textView1"
+        android:background="@drawable/chair" />
+
+    <ImageView
+        android:id="@+id/option_3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignTop="@+id/choice_3"
+        android:layout_alignRight="@+id/textView1"
+        android:background="@drawable/chair" /> -->
+
+</RelativeLayout>
