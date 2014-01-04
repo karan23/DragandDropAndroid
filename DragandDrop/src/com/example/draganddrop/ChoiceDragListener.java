@@ -13,6 +13,9 @@ import android.view.View.OnDragListener;
 import android.widget.ImageView;
 
 /**
+ * added new comment for git hub
+ */
+/**
  * DragListener will handle dragged views being dropped on the drop area
  * - only the drop action will have processing added to it as we are not
  * - amending the default behavior for other parts of the drag process
